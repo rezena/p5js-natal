@@ -1,2 +1,2 @@
 # p5js-boilerplate
-Arquivos iniciais para um projeto usando a biblioteca p5.js.
+Projeto de Computação Gráfica de Natal feito por Allan Victor seu melhor aluno
